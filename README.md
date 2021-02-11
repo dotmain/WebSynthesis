@@ -99,3 +99,5 @@ node test-syntesis.js
 ```
 
 watch out for errors. 
+
+We are gonna license synthesis to have fun.
