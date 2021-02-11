@@ -3,13 +3,14 @@ Synthesis Powered Thinking Web Demo
 
 Procedural thinking web synthesis demo for alphasep's vosk-api, https://github.com/alphacep/vosk-api/tree/master/nodejs.
 
-A thinking web synthesis demo.
 
 # For demo purpose only - NOT FOR COMMERCIAL USE -
 
+A thinking web synthesis demo.
+
 For commercial intelligent and thinking machine non entertainment purpose licenses, thinking machine and thinking web synthesis licenses, inteligent machine engineering or congitive and synthetic intelligence consulting, please contact me. discord: .gg/qEaspkC
 
-# Intelligent and thinking machines, and with thinking web synthesis functionality and synthetic inteligence are a mainvolume / planetever protected intelectual property. 
+### Intelligent and thinking machines, and with thinking web synthesis functionality and synthetic inteligence are a mainvolume / planetever protected intelectual property. 
 ™
 
 
