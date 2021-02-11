@@ -12,6 +12,10 @@ For commercial intelligent and thinking machine non entertainment purpose licens
 
 ### Intelligent and thinking machines, along with thinking web synthesis functionality and synthetic inteligence are a mainvolume / planetever protected intelectual property. 
 ™
+@mainvolume
+mainvolume.com
+planetever.com
+
 
 
 Build info: Linux 20.04, arm64, 64bit
