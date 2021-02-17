@@ -101,4 +101,5 @@ $ mv vosk-model-small-en-us-0.15 model
 node test-syntesis.js
 ```
 
-watch out for errors. 
+watch out for errors. THS CODE, DESIGN, CONCEPTS AND PRODUCTS MAY NOT BE USED FOR COMMERCIAL PURPOSES FOR MACHINE INTELLIGENCE IN ANY FORM.
+Y
