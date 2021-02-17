@@ -10,7 +10,7 @@ A thinking web synthesis demo.
 
 For commercial intelligent and thinking machine non entertainment purpose licenses, thinking machine and thinking web synthesis licenses, inteligent machine engineering or congitive and synthetic intelligence consulting, please contact me. discord: .gg/qEaspkC
 
-### Intelligent and thinking machines, along with thinking web and machine synthesis and synthetic intelligence are a mainvolume / planetever protected intelectual property. 
+### Intelligent and thinking machines, along with thinking web and machine synthesis and synthetic intelligence are a mainvolume / planetever protected intellectual property. 
 ™
 
 @mainvolume
