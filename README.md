@@ -57,7 +57,7 @@ mkdir opt
 ```
 Step 2:
  cd opt \
-    && git clone -b lookahead-1.8.0 --single-branch https://github.com/alphacep/kaldi \
+    && git clone -b main --single-branch https://github.com/dotmain/kaldi \
     && cd opt/kaldi/tools \
     && git clone -b v0.3.13 --single-branch https://github.com/xianyi/OpenBLAS \
     && git clone -b v3.2.1  --single-branch https://github.com/alphacep/clapack \
